@@ -1,0 +1,5 @@
+name = "Yitian Chen"
+SID = "24372524"
+email = "yitian.chen@berkeley.edu"
+github_name = "eatychen"
+status = "enrolled"
