@@ -1,0 +1,23 @@
+{
+    "email": "yitian.chen@berkeley.edu", 
+    "github_name": "eatychen", 
+    "grades": {
+        "hw1": {
+            "note": "", 
+            "hash": "f30e9e9ce4309432a2196f5ba5dd8163f2adc463", 
+            "earned": 18, 
+            "possible": 20, 
+            "penalty": 0, 
+            "parts": {
+                "hw1": {
+                    "possible": 20, 
+                    "earned": 18
+                }
+            }
+        }
+    }, 
+    "login": "eatychen", 
+    "name": "Yitian Chen", 
+    "status": "enrolled", 
+    "url": "git@github.com:eatychen/stat133.git"
+}
