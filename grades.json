@@ -14,10 +14,23 @@
                     "earned": 18
                 }
             }
+        }, 
+        "hw4": {
+            "note": "", 
+            "hash": "6ee3d73a6903d461770be347b3ed3c82fa601dce", 
+            "earned": 0, 
+            "possible": 20, 
+            "penalty": 0, 
+            "parts": {
+                "hw4": {
+                    "possible": 20, 
+                    "earned": 0
+                }
+            }
         }
     }, 
     "login": "eatychen", 
     "name": "Yitian Chen", 
-    "status": "enrolled", 
+    "status": "unenrolled", 
     "url": "git@github.com:eatychen/stat133.git"
 }
