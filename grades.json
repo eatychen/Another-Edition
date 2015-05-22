@@ -44,6 +44,19 @@
                     "earned": 9
                 }
             }
+        }, 
+        "midterm4": {
+            "note": "", 
+            "hash": "23d5822b5b74630e25216b201c840066d6ae4f60", 
+            "earned": 1, 
+            "possible": 27, 
+            "penalty": 0, 
+            "parts": {
+                "midterm4": {
+                    "possible": 30, 
+                    "earned": 1
+                }
+            }
         }
     }, 
     "login": "eatychen", 
